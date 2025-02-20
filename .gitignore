@@ -1,3 +1,9 @@
-**/dataset/
+**/dataset
+assignment1/Tracking/train
+
+**/.DS_Store
 **/__pycache__
+
+**/*.pt
 **/*.pth
+**/*.pkl

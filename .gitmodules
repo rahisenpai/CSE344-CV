@@ -1,0 +1,3 @@
+[submodule "helmet-violation-detection-and-number-plate-recognition"]
+	path = project
+	url = https://github.com/rahisenpai/helmet-violation-detection-and-number-plate-recognition.git
